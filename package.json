@@ -9,7 +9,9 @@
     "uuid"
   ],
   "main": "index.js",
-  "bin": "index.js",
+  "bin": {
+    "uuid": "index.js"
+    },
   "repository": "git@github.com:jden/uuid-cli.git",
   "license": "ISC",
   "readmeFilename": "README.md",
