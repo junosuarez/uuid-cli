@@ -1,0 +1,17 @@
+{
+  "name": "uuid-cli",
+  "author": "jden <jason@denizac.org>",
+  "version": "1.0.0",
+  "description": "generate uuids from the command line",
+  "keywords": ["shell", "cli", "uuid"],
+  "main": "index.js",
+  "scripts": {
+    "test": "mochi"
+  },
+  "repository": "git@github.com:jden/uuid-cli.git",
+  "license": "ISC",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "mochi": "0.3.0"
+  }
+}
