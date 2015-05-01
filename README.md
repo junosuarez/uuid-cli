@@ -32,4 +32,4 @@ Use the module that this depends on, [uuid](https://www.npmjs.com/package/uuid)
 
 ## license
 
-ISC. (c) MMXV jden <jason@denizac.org>. See LICENSE.md
+ISC. (c) MMXV jden <jason@denizac.org>. See [LICENSE.md](LICENSE.md)
